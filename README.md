@@ -50,9 +50,9 @@ Hands-on practice in **penetration testing & SOC workflows**
 ---
 
 ## 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chuliyu/)
 - 💻 [GitHub](https://github.com/ChuLiYu)  
-- 📧 Reach me at: yourname@email.com  
+- 📧 Reach me at: liyu.chu.work@gmail.com  
 
 ---
 
