@@ -1,66 +1,78 @@
-# 👋 Hi, I'm Li Yu
+# Hi, I'm Li-Yu Chu 👋
 
-🎓 Graduate student in **Computer Science** at FDU (Vancouver)  
-🤖 Aspiring **MLOps / ML Engineer** with expertise in cloud infrastructure, ML deployment, and automation  
-☁️ Strong background in **AWS, CI/CD pipelines, and production-ready ML systems**  
-📊 Passionate about bridging the gap between ML models and scalable, reliable production deployments  
-🌏 Multilingual learner (Chinese, Vietnamese, French, English)  
+## MLOps Engineer | ML Infrastructure Specialist
 
----
+🔭 Building production ML systems with serverless architectures and distributed training orchestration
 
-## 🚀 Featured Projects
+🌱 Currently working on: End-to-End MLOps Pipeline with MLflow
 
-### 🔹 [AWS Production Deployment Pipeline](https://github.com/ChuLiYu/aws-portfolio-project)
-End-to-end production deployment with **AWS Cloud + GitHub Actions CI/CD** (Applicable to ML model serving)  
-- Automated deployment pipeline with **Infrastructure as Code (CloudFormation)**  
-- Backend API on **Flask + EC2** (rate limiting, monitoring, logging) - ready for ML inference endpoints  
-- **S3 + CloudFront** for static assets with optimized caching strategies  
-- Secure **OIDC authentication** (no long-lived credentials)  
-- 🟢 [Live Demo](https://luichu.dev/)  
+💼 Looking for: MLOps Engineer roles in Vancouver, BC
 
-### 🔹 [Distributed Systems Notes](https://github.com/ChuLiYu/Cloud-Distributed-Systems)
-Study notes on **distributed storage, computation, and messaging** (foundational for MLOps)  
-- CAP theorem, replication, sharding, consistent hashing - critical for distributed ML training  
-- Concepts applicable to **feature stores, model registries, and distributed inference**  
-- Written in **English + Chinese** side-by-side  
-- Markdown-friendly for quick review  
-
-### 🔹 [Secure ML Systems & DevSecOps](https://github.com/ChuLiYu/cybersecurity-labs) *(WIP)*
-Focused on **security best practices for ML pipelines and model deployments**  
-- Model security, data privacy, and secure API design  
-- Infrastructure security with **IAM least privilege, secrets management**  
-- Scripts & automation from **Linux environments (Apple Silicon UTM)**  
+📫 How to reach me:
+- 📧 Email: liyu.chu.work@gmail.com
+- �� LinkedIn: [linkedin.com/in/chuliyu](https://linkedin.com/in/chuliyu)
+- 🌐 Portfolio: [luichu.dev](https://luichu.dev)
 
 ---
 
-## 🛠️ Tech & Tools
+### 🚀 Featured Projects
 
-- **MLOps & Data**: Python (scikit-learn, pandas, NumPy), Model deployment pipelines  
-- **Cloud**: AWS (S3, EC2, SageMaker basics, CloudFormation, IAM)  
-- **CI/CD & Orchestration**: GitHub Actions, Docker, Linux CLI, Shell scripting  
-- **Backend & APIs**: Flask, Gunicorn, REST APIs (model serving ready)  
-- **Infrastructure**: Infrastructure as Code (CloudFormation), containerization  
-- **Monitoring & Security**: Logging, IAM least privilege, OIDC, secure deployments  
-- **Other**: Git, Markdown, VSCode, macOS  
+- **[Chainy](https://github.com/ChuLiYu/chainy-backend)** - Production-grade serverless ML inference platform built with AWS Lambda, DynamoDB, and Terraform IaC
+- **[Raft-Recovery](https://github.com/ChuLiYu/raft-recovery)** - Distributed ML training orchestrator with fault-tolerant job scheduling using Go and Raft consensus
+- **[Portfolio](https://luichu.dev)** - MLOps Engineer portfolio showcasing production ML infrastructure
 
 ---
 
-## 📚 Currently Learning
-- 🎯 **MLOps fundamentals**: ML model deployment, monitoring, and lifecycle management  
-- 🎯 AWS Machine Learning services (SageMaker, Lambda for inference, Step Functions)  
-- 🎯 **ML frameworks**: PyTorch, TensorFlow, model versioning (MLflow, DVC)  
-- 🎯 Kubernetes basics for container orchestration  
-- 🎯 AWS Solutions Architect Associate (SAA-C03)  
-- 🎯 Improving French for Canadian immigration (TCF exam prep)  
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**MLOps Tools:** MLflow, DVC, Model Monitoring, Feature Engineering  
+**Cloud Services:** AWS Lambda, DynamoDB, SageMaker, CloudWatch  
+**IaC:** Terraform, CloudFormation, GitHub Actions
 
 ---
 
-## 🌐 Connect with Me
-- 💼 [LinkedIn]([https://www.linkedin.com/in/chuliyu/](https://www.linkedin.com/in/chuliyu/))
-- 💻 [GitHub](https://github.com/ChuLiYu)
-- 🌍 [Website](https://luichu.dev/)  
-- 📧 Reach me at: liyu.chu.work@gmail.com  
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChuLiYu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChuLiYu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
 ---
 
-⭐️ *If you find my projects useful, consider giving them a star!*  
+### 🏆 Certifications
+
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🏗️ **HashiCorp Terraform Associate**
+
+---
+
+### 📝 Latest Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+  <i>Let's connect and build scalable ML systems together!</i>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/chuliyu"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:liyu.chu.work@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://luichu.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChuLiYu&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views"/>
+</p>
