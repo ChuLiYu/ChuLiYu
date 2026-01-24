@@ -61,16 +61,17 @@ engineer.say_hi()
 ## 🚀 Featured Projects
 
 ### 📈 [AlphaPulse - MLOps Platform](https://github.com/ChuLiYu/alphapulse-mlops-platform)
-> **Production-Grade MLOps for Crypto-Fintech** | *Live Demo*: [alphapulse.luichu.dev](https://alphapulse.luichu.dev/)
+> **Bitcoin Quantitative Trading & Automated Data Pipeline Platform** | *Live Demo*: [alphapulse.luichu.dev](https://alphapulse.luichu.dev/)
 
 **Core Engineering:**
 - 🏗️ **Polymorphic Infrastructure**: Provider-agnostic IaC using **Terraform** (AWS/GCP/Oracle)
-- 🚀 **High-Performance ETL**: **Apache Airflow** pipelines processing 8+ years of high-frequency data
-- 🧠 **End-to-End ML Lifecycle**: Automated training & tracking with **MLflow** & **CatBoost**
-- 💰 **FinOps Optimization**: **$0/mo** architecture on Oracle Cloud (ARM64) via extreme resource efficiency
-- 🛡️ **Quality Assurance**: 100% type-safe Python (**Pydantic v2**) & rigorous **CI/CD** (GitHub Actions)
+- 🔄 **Automated Data Pipeline**: **Apache Airflow** orchestrated ETL processing 8+ years of high-frequency Bitcoin market data.
+- 🧠 **Adaptive ML Lifecycle**: Continuous model training & tracking with **MLflow** & **CatBoost**.
+- 📊 **Advanced Observability**: Real-time data drift detection and model performance monitoring using **Evidently AI**.
+- 💰 **FinOps Optimization**: **$0/mo** architecture on Oracle Cloud (ARM64) via extreme resource efficiency.
+- 🛡️ **Quality Assurance**: 100% type-safe Python (**Pydantic v2**) & rigorous **CI/CD** (GitHub Actions).
 
-**Tech Stack**: Python 3.12, FastAPI, React 18, Airflow, MLflow, Docker, Kubernetes (k3s), Terraform
+**Tech Stack**: Python 3.12, FastAPI, React 18, Airflow, MLflow, Evidently AI, Docker, Kubernetes (k3s), Terraform
 
 ---
 
@@ -140,6 +141,8 @@ engineer.say_hi()
 
 ### Systems & DevOps
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
