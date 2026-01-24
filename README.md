@@ -32,8 +32,8 @@ class MLOpsEngineer:
         ]
         
         self.certifications = [
-            "✅ AWS Solutions Architect Associate",
-            "✅ HashiCorp Terraform Associate"
+            "🏆 **AWS Solutions Architect Associate**",
+            "🏆 **HashiCorp Terraform Associate**"
         ]
     
     def current_focus(self):
@@ -60,7 +60,36 @@ engineer.say_hi()
 
 ## 🚀 Featured Projects
 
-### �� [MLOps Portfolio](https://github.com/ChuLiYu/mlops-portfolio) - Complete ML Infrastructure
+### 📈 [AlphaPulse - MLOps Platform](https://github.com/ChuLiYu/alphapulse-mlops-platform)
+> **Production-Grade MLOps for Crypto-Fintech** | *Live Demo*: [alphapulse.luichu.dev](https://alphapulse.luichu.dev/)
+
+**Core Engineering:**
+- 🏗️ **Polymorphic Infrastructure**: Provider-agnostic IaC using **Terraform** (AWS/GCP/Oracle)
+- 🚀 **High-Performance ETL**: **Apache Airflow** pipelines processing 8+ years of high-frequency data
+- 🧠 **End-to-End ML Lifecycle**: Automated training & tracking with **MLflow** & **CatBoost**
+- 💰 **FinOps Optimization**: **$0/mo** architecture on Oracle Cloud (ARM64) via extreme resource efficiency
+- 🛡️ **Quality Assurance**: 100% type-safe Python (**Pydantic v2**) & rigorous **CI/CD** (GitHub Actions)
+
+**Tech Stack**: Python 3.12, FastAPI, React 18, Airflow, MLflow, Docker, Kubernetes (k3s), Terraform
+
+---
+
+### 🔄 [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) - Distributed Job Orchestrator
+> Fault-tolerant job queue for mission-critical workloads
+
+**Production Features:**
+- 💾 **Zero data loss** - Write-Ahead Log ensures durability
+- ⚡ **High throughput** - 250+ jobs/second with concurrent processing
+- 🛡️ **Crash recovery** - Sub-3s recovery time with snapshots
+- 🔧 **Raft consensus** - Distributed coordination and leader election
+- 📊 **Prometheus metrics** - Production monitoring built-in
+
+**Tech Stack**: Go, Raft Consensus, Write-Ahead Log, Distributed Systems  
+**Use Cases**: ML training orchestration, ETL pipelines, batch processing
+
+---
+
+### [MLOps Portfolio](https://github.com/ChuLiYu/mlops-portfolio) - Complete ML Infrastructure
 > **Live Demo**: [luichu.dev](https://luichu.dev/) | Production-grade MLOps showcase
 
 **Highlights:**
@@ -88,18 +117,7 @@ engineer.say_hi()
 
 ---
 
-### 🔄 [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) - Distributed Job Orchestrator
-> Fault-tolerant job queue for mission-critical workloads
 
-**Production Features:**
-- 💾 **Zero data loss** - Write-Ahead Log ensures durability
-- ⚡ **High throughput** - 250+ jobs/second with concurrent processing
-- 🛡️ **Crash recovery** - Sub-3s recovery time with snapshots
-- 🔧 **Raft consensus** - Distributed coordination and leader election
-- 📊 **Prometheus metrics** - Production monitoring built-in
-
-**Tech Stack**: Go, Raft Consensus, Write-Ahead Log, Distributed Systems  
-**Use Cases**: ML training orchestration, ETL pipelines, batch processing
 
 ---
 
@@ -110,6 +128,7 @@ engineer.say_hi()
 ### MLOps & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
@@ -154,16 +173,21 @@ engineer.say_hi()
 
 ## 💼 Professional Experience Highlights
 
-**🏢 Software Engineer @ HiTrust, Inc.** *(Jan 2023 – Dec 2024)*
-- Developed **secure microservices** handling millions of financial requests
-- **Optimized data pipelines** → 30% performance improvement
-- Managed **Kubernetes deployments** for production services
-- Implemented monitoring infrastructure with comprehensive logging
+**🏢 Software Engineer (FinTech) @ HiTRUST** *(Jan 2023 – Dec 2024)*
+- **Microservices Architecture**: Designed scalable Spring Boot microservices for mission-critical financial systems (EMV 3DS), ensuring **high availability** and fault tolerance.
+- **High-Concurrency API**: Engineered robust RESTful APIs handling high-throughput transaction volumes with low latency (Critical for **Real-time Model Serving**).
+- **Data Persistence & ACID**: Optimized database performance using Hibernate/JPA & native SQL to ensure consistency in distributed environments.
+- **System Stability**: Enhanced production reliability via automated background processes (Spring Scheduler) and comprehensive testing suites (**CI/CD**).
 
-**🔬 Product Planner (Data & ML) @ Astra Technology** *(Oct 2018 – Dec 2019)*
-- Built **time-series prediction models** using Python stack
-- Led **Computer Vision PoC** in collaboration with NTT Japan
-- Defined technical requirements for ML model production deployment
+**🔬 Product Planner (Data & ML) @ Astra Technology** *(Mar 2019 – Jun 2022)*
+- **Feature Engineering & Modeling**: Extracted raw datasets via SQL and applied financial technical indicators (**TA-Lib**) to model flow trends and anomalies.
+- **IoT Global PoC**: Collaborated with **NTT Japan** on smart warehousing IoT projects, handling sensor data streams.
+- **Data-Driven Strategy**: Defined technical specifications based on analytical findings, bridging the gap between data insights and engineering implementation.
+
+**📊 Business Data Analyst @ Star to Asia** *(Mar 2015 – Mar 2018)*
+- **A/B Testing & Optimization**: Conducted rigorous A/B testing and budget allocation analysis to maximize ROI (Experimentation).
+- **High-Volume Analytics**: Analyzed digital advertising metrics and CRM transactional data to identify lifecycle trends.
+- **Attribution Modeling**: Leveraged data-driven models to optimize marketing funnels, driving revenue from 0 to TWD 6M+ in the first year.
 
 ---
 
@@ -171,12 +195,13 @@ engineer.say_hi()
 
 | Project | Metric | Result |
 |---------|--------|--------|
+| **AlphaPulse** | Cloud Cost | **$0/mo** (FinOps) |
+| **AlphaPulse** | Type Safety | **100%** Coverage |
 | **Chainy** | Inference Latency | **<100ms** (p95) |
 | **Chainy** | Cost Reduction | **90%** vs EC2 hosting |
 | **Raft-Recovery** | Job Throughput | **250+ jobs/s** |
 | **Raft-Recovery** | Recovery Time | **<3s** with zero data loss |
 | **HiTrust** | Pipeline Performance | **30%** improvement |
-| **Portfolio** | Monthly Cost | **$0** infrastructure |
 
 ---
 
@@ -187,8 +212,8 @@ Fairleigh Dickinson University (2025-2027)
 *Focus*: Artificial Intelligence, Advanced Operating Systems, Systems Programming
 
 **🏆 Professional Certifications**
-- ☁️ **AWS Certified Solutions Architect – Associate**
-- 🏗️ **HashiCorp Terraform Associate**
+- ☁️ **AWS Certified Solutions Architect – Associate** ![Badge](https://img.shields.io/badge/Certified-AWS_SAA-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+- 🏗️ **HashiCorp Terraform Associate** ![Badge](https://img.shields.io/badge/Certified-Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 
 **📚 Specialized Training**
 - Big Data Analytics Bootcamp - Institute for Information Industry (2017-2018)
