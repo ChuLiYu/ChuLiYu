@@ -2,13 +2,15 @@
 
 # 👋 Hi, I'm Li-Yu Chu (Liyu)
 
-### 🚀 MLOps Engineer | Production ML Infrastructure Specialist
+### Software Developer | FinTech & Business Applications
+**Java · Python · SQL | Spring Boot · AWS · Data Workflows**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-luichu.dev-4285F4?style=for-the-badge)](https://luichu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuliyu)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liyu.chu.work@gmail.com)
 
-**📍 Vancouver, BC, Canada 🇨🇦 | 💼 Open to MLOps & ML Infrastructure opportunities**
+**📍 Vancouver, BC, Canada 🇨🇦 | Open to software development and business systems opportunities**  
+**M.S. Applied Computer Science candidate · Expected graduation: December 2026**
 
 </div>
 
@@ -16,109 +18,100 @@
 
 ## 🎯 About Me
 
-```python
-class MLOpsEngineer:
-    def __init__(self):
-        self.name = "Li-Yu Chu"
-        self.role = "MLOps Engineer"
-        self.location = "Vancouver, BC 🇨🇦"
-        self.experience = "2+ years production ML infrastructure"
-        
-        self.core_skills = [
-            "Serverless ML Inference (<100ms latency)",
-            "Distributed Systems & Fault Tolerance",
-            "Infrastructure as Code (Terraform)",
-            "Production AWS Architecture"
-        ]
-        
-        self.certifications = [
-            "🏆 **AWS Solutions Architect Associate**",
-            "🏆 **HashiCorp Terraform Associate**"
-        ]
-    
-    def current_focus(self):
-        return [
-            "Building end-to-end MLOps pipelines",
-            "Optimizing model serving infrastructure",
-            "Implementing production monitoring systems"
-        ]
-    
-    def say_hi(self):
-        print("🚀 Building scalable ML infrastructure that powers real-world applications!")
+I'm a software developer with **two years of professional experience in financial technology**, building Java and Spring Boot services for **EMV 3-D Secure payment authentication**. My earlier work in product planning and business data analysis helps me connect technical implementation with the business problem it needs to solve.
 
-engineer = MLOpsEngineer()
-engineer.say_hi()
+I bring hands-on experience with **REST APIs, relational databases, SQL and scheduled processing**, alongside personal projects in Python, TypeScript, AWS and distributed systems. I'm particularly interested in financial software, business applications and tools that make complex workflows easier to use and maintain.
+
+```python
+class SoftwareDeveloper:
+    def __init__(self):
+        self.name = "Li-Yu Chu (Liyu)"
+        self.location = "Vancouver, BC"
+        self.professional_background = [
+            "Financial software development: Java, Spring Boot, SQL",
+            "Product planning and technical specifications",
+            "Business data analysis"
+        ]
+        self.project_interests = [
+            "Business applications and data workflows",
+            "Cloud application development",
+            "Reliable systems and automated testing"
+        ]
+
+    def say_hi(self):
+        print("I turn business requirements into practical software.")
+
+developer = SoftwareDeveloper()
+developer.say_hi()
 ```
 
 **Why work with me?**
-- ✅ 2+ years building **production ML systems** at scale
-- ✅ **Live projects** with measurable impact (<100ms inference, $0 hosting costs)
-- ✅ Strong foundation in **distributed systems** and **cloud architecture**
-- ✅ Full-stack MLOps: from training orchestration to model monitoring
+
+- **Relevant financial domain experience:** contributed to payment authentication software at HiTRUST.
+- **Business and technical perspective:** experience across software engineering, product planning and analytics.
+- **Practical engineering range:** professional Java/SQL experience supported by Python, TypeScript and cloud projects.
+- **Work you can inspect:** repositories include application code, infrastructure definitions, tests and architecture documentation.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 📈 [AlphaPulse - MLOps Platform](https://github.com/ChuLiYu/alphapulse-mlops-platform)
-> **Bitcoin Quantitative Trading & Automated Data Pipeline Platform** | *Live Demo*: [alphapulse.luichu.dev](https://alphapulse.luichu.dev/)
+### 📈 [AlphaPulse](https://github.com/ChuLiYu/alphapulse-mlops-platform) — Financial Data & Analytics Application
+> A personal project combining market-data workflows, APIs and an interactive dashboard.
 
 **Core Engineering:**
-- 🏗️ **Polymorphic Infrastructure**: Provider-agnostic IaC using **Terraform** (AWS/GCP/Oracle)
-- 🔄 **Automated Data Pipeline**: **Apache Airflow** orchestrated ETL processing 8+ years of high-frequency Bitcoin market data.
-- 🧠 **Adaptive ML Lifecycle**: Continuous model training & tracking with **MLflow** & **CatBoost**.
-- 📊 **Advanced Observability**: Real-time data drift detection and model performance monitoring using **Evidently AI**.
-- 💰 **FinOps Optimization**: **$0/mo** architecture on Oracle Cloud (ARM64) via extreme resource efficiency.
-- 🛡️ **Quality Assurance**: 100% type-safe Python (**Pydantic v2**) & rigorous **CI/CD** (GitHub Actions).
 
-**Tech Stack**: Python 3.12, FastAPI, React 18, Airflow, MLflow, Evidently AI, Docker, Kubernetes (k3s), Terraform
+- **Application development:** Python/FastAPI services with PostgreSQL persistence and a React/TypeScript interface.
+- **Data workflows:** Airflow DAGs for data ingestion, indicator calculation and storage.
+- **Financial data handling:** Decimal-based price schemas and API validation.
+- **Delivery automation:** Docker, Terraform and GitHub Actions configurations for testing and deployment.
 
----
-
-### 🔄 [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) - Distributed Job Orchestrator
-> Fault-tolerant job queue for mission-critical workloads
-
-**Production Features:**
-- 💾 **Zero data loss** - Write-Ahead Log ensures durability
-- ⚡ **High throughput** - 250+ jobs/second with concurrent processing
-- 🛡️ **Crash recovery** - Sub-3s recovery time with snapshots
-- 🔧 **Raft consensus** - Distributed coordination and leader election
-- 📊 **Prometheus metrics** - Production monitoring built-in
-
-**Tech Stack**: Go, Raft Consensus, Write-Ahead Log, Distributed Systems  
-**Use Cases**: ML training orchestration, ETL pipelines, batch processing
+**Tech Stack:** Python, FastAPI, SQL, PostgreSQL, React, TypeScript, Airflow, Docker, Terraform  
+**Project context:** An evolving portfolio application. Demo endpoints can fall back to mock data; dashboard output should not be treated as verified market results.
 
 ---
 
-### [MLOps Portfolio](https://github.com/ChuLiYu/mlops-portfolio) - Complete ML Infrastructure
-> **Live Demo**: [luichu.dev](https://luichu.dev/) | Production-grade MLOps showcase
+### 🔄 [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) — Durable Job Queue & Distributed Systems
+> A Go systems project exploring how background jobs are stored, processed and recovered.
+
+**Engineering Highlights:**
+
+- **Persistence and recovery:** write-ahead logging and snapshot components for restoring queue state.
+- **Concurrent processing:** worker pools, job lifecycle management and gRPC interfaces.
+- **Distributed coordination:** Raft election and log-replication code, with cluster integration work evolving.
+- **Verification:** unit and integration test code covering queue processing, storage and recovery scenarios.
+
+**Tech Stack:** Go, gRPC, Write-Ahead Logging, Snapshots, Raft  
+**Relevant to:** Background processing, failure handling and reasoning about consistency.
+
+---
+
+### 🌐 [Personal Portfolio](https://github.com/ChuLiYu/liyu-portfolio) — Project Showcase
+> [luichu.dev](https://luichu.dev/) | A central place to explore my work and contact me.
 
 **Highlights:**
-- 📊 Comprehensive portfolio demonstrating end-to-end ML infrastructure
-- 🎯 Real production systems with quantifiable metrics
-- 📈 Cost-optimized architecture ($0/month hosting)
-- 🔧 Multi-environment setup with CI/CD automation
 
-**Impact**: Portfolio designed to pass technical and HR interviews for MLOps roles
+- Project summaries with links to source repositories.
+- English and Chinese pages.
+- HTML/CSS presentation of software, data and cloud projects.
 
----
-
-### ⚡ [Chainy Backend](https://github.com/ChuLiYu/chainy-backend) - Serverless ML Infrastructure
-> Production AWS Lambda architecture for ML model serving
-
-**MLOps Features:**
-- 🚀 **Sub-100ms latency** - Optimized for real-time inference
-- 📈 **Auto-scaling** - 0 to 1000+ req/s with no manual intervention
-- 💰 **Cost-optimized** - 90% cheaper than traditional EC2 hosting
-- 🔒 **Enterprise security** - WAF, IAM, JWT authentication
-- 📊 **Full observability** - CloudWatch metrics, dashboards, alerts
-
-**Tech Stack**: AWS Lambda, DynamoDB, Terraform, TypeScript, API Gateway  
-**Use Cases**: Model serving APIs, feature stores, real-time predictions
+**Purpose:** Make my technical work accessible to both engineering and business audiences.
 
 ---
 
+### ⚡ [Chainy Backend](https://github.com/ChuLiYu/chainy-backend) — AWS Serverless URL Shortener
+> A TypeScript application for creating and redirecting short links, with authentication and event capture.
 
+**Application Features:**
+
+- **API development:** Lambda handlers for link creation, management and redirects.
+- **Data persistence:** DynamoDB-backed link storage and request handling.
+- **Authentication:** JWT validation and Google sign-in integration.
+- **Infrastructure as code:** Terraform modules for AWS application resources.
+- **Analytics events:** S3 event output, structured logging and tests for event formatting and sensitive-field handling.
+
+**Tech Stack:** TypeScript, AWS Lambda, API Gateway, DynamoDB, S3, Terraform  
+**Relevant to:** Application integration, authenticated services and event-driven workflows.
 
 ---
 
@@ -126,40 +119,41 @@ engineer.say_hi()
 
 <div align="center">
 
-### ML & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-
-### MLOps & Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-
-### Systems & DevOps
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+### Application Development
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+
+### Data & Business Systems
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=databricks&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+### Cloud & Engineering Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 </div>
 
-**MLOps Expertise:**
-- 🎯 Model serving & deployment (Lambda, SageMaker, custom APIs)
-- 📊 Experiment tracking (MLflow, DVC, model registry)
-- 🔄 CI/CD pipelines (GitHub Actions, automated testing)
-- 📈 Monitoring & observability (CloudWatch, Prometheus, drift detection)
-- 💰 Cost optimization (serverless, right-sizing, budget alerts)
+**Professional Experience:**
 
-**Cloud Services:**
-- ☁️ AWS: Lambda, DynamoDB, S3, SageMaker, CloudWatch, Step Functions
-- 🏗️ IaC: Terraform (multi-env), CloudFormation
-- 🔐 Security: IAM, WAF, Secrets Manager, KMS
+- **Software development:** Java, Spring Boot, REST APIs, Hibernate/JPA and Spring Scheduler.
+- **Data and persistence:** SQL queries, relational data access and database-backed applications.
+- **Business collaboration:** analytical findings, product planning and technical specifications.
+- **Financial domain:** EMV 3-D Secure payment authentication.
+
+**Additional Project Experience:**
+
+- **Applications and data:** Python, FastAPI, PostgreSQL, React/TypeScript and Airflow.
+- **Cloud delivery:** AWS Lambda, API Gateway, DynamoDB, S3, Terraform, Docker and GitHub Actions.
+- **Testing and reliability:** automated test code, structured logging, Go concurrency, WAL and recovery mechanisms.
 
 ---
 
@@ -177,81 +171,85 @@ engineer.say_hi()
 ## 💼 Professional Experience Highlights
 
 **🏢 Software Engineer (FinTech) @ HiTRUST** *(Jan 2023 – Dec 2024)*
-- **Microservices Architecture**: Designed scalable Spring Boot microservices for mission-critical financial systems (EMV 3DS), ensuring **high availability** and fault tolerance.
-- **High-Concurrency API**: Engineered robust RESTful APIs handling high-throughput transaction volumes with low latency (Critical for **Real-time Model Serving**).
-- **Data Persistence & ACID**: Optimized database performance using Hibernate/JPA & native SQL to ensure consistency in distributed environments.
-- **System Stability**: Enhanced production reliability via automated background processes (Spring Scheduler) and comprehensive testing suites (**CI/CD**).
 
-**🔬 Product Planner (Data & ML) @ Astra Technology** *(Mar 2019 – Jun 2022)*
-- **Feature Engineering & Modeling**: Extracted raw datasets via SQL and applied financial technical indicators (**TA-Lib**) to model flow trends and anomalies.
-- **IoT Global PoC**: Collaborated with **NTT Japan** on smart warehousing IoT projects, handling sensor data streams.
-- **Data-Driven Strategy**: Defined technical specifications based on analytical findings, bridging the gap between data insights and engineering implementation.
+- Developed **Java/Spring Boot services for EMV 3-D Secure payment authentication**, contributing to financial software used in transaction workflows.
+- Built and maintained **REST APIs** and database-backed application functionality.
+- Used **Hibernate/JPA and native SQL** for data access and database query work.
+- Implemented **scheduled background processing with Spring Scheduler** and contributed to software testing and system reliability.
+
+**🔬 Product Planner @ Astra Technology** *(Mar 2019 – Jun 2022)*
+
+- Used **SQL and financial technical indicators** to analyze data and inform product planning.
+- Translated analytical findings into **technical specifications**, connecting business needs with engineering implementation.
+- Collaborated on **smart warehousing IoT proof-of-concept work with NTT Japan**.
 
 **📊 Business Data Analyst @ Star to Asia** *(Mar 2015 – Mar 2018)*
-- **A/B Testing & Optimization**: Conducted rigorous A/B testing and budget allocation analysis to maximize ROI (Experimentation).
-- **High-Volume Analytics**: Analyzed digital advertising metrics and CRM transactional data to identify lifecycle trends.
-- **Attribution Modeling**: Leveraged data-driven models to optimize marketing funnels, driving revenue from 0 to TWD 6M+ in the first year.
+
+- Analyzed **digital advertising and CRM data** to evaluate campaign performance and customer trends.
+- Used **A/B testing and budget analysis** to inform marketing decisions.
+- Connected analysis with business recommendations on marketing funnels and resource allocation.
 
 ---
 
 ## 📈 Impact & Achievements
 
-| Project | Metric | Result |
-|---------|--------|--------|
-| **AlphaPulse** | Cloud Cost | **$0/mo** (FinOps) |
-| **AlphaPulse** | Type Safety | **100%** Coverage |
-| **Chainy** | Inference Latency | **<100ms** (p95) |
-| **Chainy** | Cost Reduction | **90%** vs EC2 hosting |
-| **Raft-Recovery** | Job Throughput | **250+ jobs/s** |
-| **Raft-Recovery** | Recovery Time | **<3s** with zero data loss |
-| **HiTrust** | Pipeline Performance | **30%** improvement |
+| Area | What I Bring | Supporting Experience |
+|------|--------------|-----------------------|
+| **Financial software** | Two years of professional software engineering | HiTRUST: Java, Spring Boot and EMV 3DS |
+| **Business-to-technology translation** | Product planning informed by data and technical specifications | Astra Technology |
+| **Application and data workflows** | APIs, scheduled pipelines and dashboard development | [AlphaPulse](https://github.com/ChuLiYu/alphapulse-mlops-platform) |
+| **Cloud application development** | TypeScript services and Terraform-defined AWS resources | [Chainy Backend](https://github.com/ChuLiYu/chainy-backend) |
+| **Systems fundamentals** | Concurrency, persistence and recovery project work | [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) |
 
 ---
 
 ## 🎓 Education & Certifications
 
-**🎓 Master of Science - Applied Computer Science**  
-Fairleigh Dickinson University (2025-2027)  
-*Focus*: Artificial Intelligence, Advanced Operating Systems, Systems Programming
+**🎓 Master of Science — Applied Computer Science**  
+Fairleigh Dickinson University · **Expected graduation: December 2026**  
+*Coursework focus:* Artificial Intelligence, Advanced Operating Systems, Systems Programming
 
 **🏆 Professional Certifications**
-- ☁️ **AWS Certified Solutions Architect – Associate** ![Badge](https://img.shields.io/badge/Certified-AWS_SAA-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
-- 🏗️ **HashiCorp Terraform Associate** ![Badge](https://img.shields.io/badge/Certified-Terraform_Associate-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+- **AWS Certified Solutions Architect – Associate**
+- **HashiCorp Terraform Associate**
 
 **📚 Specialized Training**
-- Big Data Analytics Bootcamp - Institute for Information Industry (2017-2018)
-- Focus: Data analytics, machine learning, big data technologies
+
+- Big Data Analytics Bootcamp — Institute for Information Industry (2017–2018)
+- Data analytics, machine learning and big data technologies
 
 ---
 
 ## 🔍 Currently Learning
 
-- 🚀 Advanced model monitoring and drift detection algorithms
-- 📊 MLflow & DVC for complete ML lifecycle management
-- ☁️ AWS SageMaker for enterprise ML at scale
-- 🗄️ Feature stores and data versioning best practices
-- 🔧 Kubeflow and ML on Kubernetes
+My next development priorities are:
+
+- **Application quality:** stronger integration tests, API contracts and reproducible test scenarios.
+- **Business systems analysis:** clearer requirements, process diagrams and acceptance criteria.
+- **SQL and reporting:** data modeling, query analysis and business-facing reporting.
+- **Financial software design:** transaction boundaries, idempotency and auditability.
 
 ---
 
 ## 📫 Let's Connect!
 
-I'm actively seeking **MLOps Engineer** and **ML Infrastructure Engineer** roles where I can:
+I'm interested in **Software Developer, Application Developer and Business Systems Analyst** opportunities, especially in **financial technology and business software**. I plan to start my next full-time role after graduation, currently expected in **December 2026**.
 
 <div align="center">
 
-| 🏗️ **Design & Build** | 🚀 **Deploy & Scale** | 📈 **Optimize & Monitor** |
+| 🏗️ **Build Applications** | 🔄 **Improve Workflows** | 📊 **Connect Data & Decisions** |
 |:---:|:---:|:---:|
-| Scalable ML infrastructure | Production ML systems | ML workflows & costs |
-| Distributed training systems | High-reliability services | Model performance |
-| Feature stores & pipelines | CI/CD automation | System observability |
+| Financial and business software | Application and data integration | SQL-based analysis |
+| APIs and user-facing tools | Scheduled processing | Clear technical specifications |
+| Database-backed services | Automated testing | Collaboration with business teams |
 
 </div>
 
-**📧 Email**: [liyu.chu.work@gmail.com](mailto:liyu.chu.work@gmail.com)  
-**🔗 Portfolio**: [luichu.dev](https://luichu.dev/)  
-**💼 LinkedIn**: [linkedin.com/in/chuliyu](https://linkedin.com/in/chuliyu)  
-**📍 Location**: Vancouver, BC, Canada 🇨🇦
+**📧 Email:** [liyu.chu.work@gmail.com](mailto:liyu.chu.work@gmail.com)  
+**🔗 Portfolio:** [luichu.dev](https://luichu.dev/)  
+**💼 LinkedIn:** [linkedin.com/in/chuliyu](https://linkedin.com/in/chuliyu)  
+**📍 Location:** Vancouver, BC, Canada 🇨🇦
 
 ---
 
@@ -259,14 +257,14 @@ I'm actively seeking **MLOps Engineer** and **ML Infrastructure Engineer** roles
 
 ### 💡 Engineering Philosophy
 
-> *"Building reliable ML infrastructure that scales from prototype to production with zero downtime and measurable business impact."*
+> *"Understand the business problem. Build software people can rely on. Make the design and its tradeoffs clear."*
 
 **Open to opportunities in:**
-- MLOps Engineering
-- ML Infrastructure Engineering  
-- Production ML Systems
-- Cloud ML Architecture
-- DevOps for ML
+
+- Software & Application Development
+- Financial Technology & Business Software
+- Business Systems Analysis
+- Application Integration & Data Workflows
 
 </div>
 
@@ -278,6 +276,6 @@ I'm actively seeking **MLOps Engineer** and **ML Infrastructure Engineer** roles
 [![GitHub followers](https://img.shields.io/github/followers/ChuLiYu?style=social)](https://github.com/ChuLiYu)
 [![GitHub stars](https://img.shields.io/github/stars/ChuLiYu?style=social)](https://github.com/ChuLiYu)
 
-**Thanks for visiting! ⭐️ Star my repos if you find them useful!**
+**Thanks for visiting — feel free to explore my projects or get in touch.**
 
 </div>
