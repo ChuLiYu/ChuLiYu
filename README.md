@@ -5,7 +5,7 @@
 ### Software Developer | FinTech & Business Applications
 
 **Java · Spring Boot · SQL**  
-Payment authentication · Business systems · Application development
+Internet banking · Business systems · Application development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luichu.dev-4285F4?style=for-the-badge)](https://luichu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuliyu)
@@ -19,7 +19,7 @@ Payment authentication · Business systems · Application development
 
 ## About Me
 
-I'm a software developer with **two years of professional FinTech experience**, developing **Java and Spring Boot services for EMV 3-D Secure payment authentication** at HiTRUST.
+I'm a software developer with **two years of professional experience building internet banking applications**, contributing to **front-end and back-end development** at HiTRUST.
 
 My background spans **software engineering, product planning and business data analysis**. That combination helps me connect business needs with technical specifications, application logic and data—an approach I bring to financial software and business applications.
 
@@ -74,7 +74,7 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 |---|---|
 | **Professional application development** | Java, Spring Boot, REST APIs, Hibernate/JPA, Spring Scheduler |
 | **Professional data & business work** | SQL, relational data access, product planning, technical specifications, business data analysis |
-| **Financial domain** | EMV 3-D Secure payment authentication |
+| **Financial domain** | Internet banking applications |
 | **Project application & data stack** | Python, FastAPI, PostgreSQL, TypeScript, React, Airflow |
 | **Project cloud & engineering tools** | AWS Lambda, API Gateway, DynamoDB, S3, Terraform, Docker, GitHub Actions, Go, gRPC, Raft |
 
@@ -83,9 +83,9 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 ## Professional Experience Highlights
 
 ### Software Engineer — HiTRUST
-**Jan 2023 – Dec 2024 | Financial Technology**
+**Jan 2023 – Dec 2024 | Digital Banking**
 
-- Developed **Java/Spring Boot services for EMV 3-D Secure payment authentication**.
+- Contributed to **front-end and back-end development for internet banking applications**.
 - Built and maintained **REST APIs and database-backed application functionality**.
 - Implemented data access using **Hibernate/JPA and native SQL**.
 - Developed **scheduled background processing with Spring Scheduler** and contributed to software testing.
