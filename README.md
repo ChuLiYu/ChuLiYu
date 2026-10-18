@@ -2,10 +2,14 @@
 
 # Hi, I'm Li-Yu Chu (Liyu)
 
-### Software Developer | Backend & Full-Stack Applications
+### Software Engineer | Banking Systems & Cloud Applications
 
-**Java · Spring Boot · Angular · SQL**  
-Banking experience · Application modernization · AWS & Terraform
+**2 years building banking software · Java / Spring Boot · Microservices refactoring**
+
+Hands-on experience with **foreign-currency workflows, debit requests and transaction-state processing**, plus refactoring existing banking functionality into **microservices**.
+
+Earned **AWS Solutions Architect – Associate and Terraform Associate** credentials.  
+M.S. in Applied Computer Science expected December 2026.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luichu.dev-4285F4?style=for-the-badge)](https://luichu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuliyu)
@@ -19,13 +23,26 @@ Banking experience · Application modernization · AWS & Terraform
 
 ## About Me
 
-I'm a software developer with **two years of professional experience building banking applications** using **Java, Spring Boot, Angular and SQL** at HiTRUST.
+**I bring banking-domain experience to software engineering.** At HiTRUST, I used Java, Spring Boot, Angular and SQL to build and refactor internet banking functionality within a multi-year modernization project.
 
-My work included **transaction workflows, monolith-to-microservices refactoring, scheduled processing and Hibernate-based data access**. I implemented and refactored application logic for debit requests, response messages, transaction-state transitions and retries within a multi-year banking modernization project.
+My work connected **foreign-currency rules, bank messages, debit requests, transaction-state transitions and failure retries** with application logic. Earlier product-planning experience also helps me translate business requirements into technical specifications.
 
-Earlier experience in **product planning and business data analysis** helps me connect business rules with technical specifications and application logic. I have earned the **AWS Certified Solutions Architect – Associate** and **HashiCorp Certified: Terraform Associate** credentials, and my personal projects explore cloud infrastructure, financial data applications and distributed systems.
+My personal projects complement that professional background with AWS infrastructure implementation, financial data applications and a durable Go job queue with recovery mechanisms.
 
-Based in **Vancouver, Canada**, I’m seeking **software development opportunities across North America**, with a particular interest in **fintech and financial services**. I bring hands-on banking application experience, an understanding of transaction workflows, and a business-oriented approach to software development.
+Based in Vancouver, Canada, I’m pursuing **Software Developer and Software Engineer opportunities across North America**, especially in **fintech and financial services**.
+
+---
+
+## Certifications & Education
+
+**Credentials earned**
+
+- AWS Certified Solutions Architect – Associate
+- HashiCorp Certified: Terraform Associate
+
+**Master of Science — Applied Computer Science**  
+**Expected December 2026**  
+<sub>Fairleigh Dickinson University</sub>
 
 ---
 
@@ -34,13 +51,13 @@ Based in **Vancouver, Canada**, I’m seeking **software development opportuniti
 ### Software Engineer — HiTRUST
 **Jan 2023 – Dec 2024 | Digital Banking**
 
-Developed internet banking functionality with **Angular, Java, Spring and Spring Boot** as part of a multi-year application modernization project.
+Developed internet banking functionality with Angular, Java, Spring and Spring Boot as part of a multi-year application modernization project.
 
-- Refactored existing functionality into microservices across **4 areas: inquiry, scheduled processing, email notifications and data access**.
+- Refactored existing functionality into **microservices across 4 areas**: inquiry, scheduled processing, email notifications and data access.
 - Implemented and refactored workflows involving **foreign-currency transaction rules and bank message formats**.
-- Worked on scheduled processing that submitted **debit requests to core banking systems**, updated transaction statuses from response messages, and handled retries and failure-state transitions.
+- Worked on scheduled processing that submitted **debit requests to core banking systems**, updated transaction statuses from response messages, and handled **retries and failure-state transitions**.
 - Refactored **JDBC-based data access to Hibernate** and worked with **2 database platforms: Oracle and Microsoft SQL Server**.
-- Wrote **unit tests**, performed **manual testing**, and supported changes through QA and bank acceptance testing environments.
+- Wrote unit tests, performed manual testing, and supported changes through QA and bank acceptance testing environments.
 
 
 ---
@@ -98,31 +115,13 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 
 ---
 
-## Earlier Product & Analytics Experience
+## Earlier Product Experience
 
 ### Product Planner — Astra Technology
 **Mar 2019 – Jun 2022**
 
-- Translated analytical findings into **technical specifications** to support engineering implementation.
-- Used **SQL and financial technical indicators** to inform product analysis and planning.
+- Translated SQL-based analysis and financial technical indicators into **product requirements and technical specifications** for engineering implementation.
 - Contributed to a **smart warehousing IoT proof of concept with NTT Japan**.
-
-### Business Data Analyst — Star to Asia
-**Mar 2015 – Mar 2018**
-
-- Analyzed **advertising and CRM data**, using **A/B testing and budget analysis** to inform campaign and resource-allocation decisions.
-
----
-
-## Certifications & Education
-
-**Credentials earned**
-
-- AWS Certified Solutions Architect – Associate
-- HashiCorp Certified: Terraform Associate
-
-**Master of Science — Applied Computer Science**  
-Fairleigh Dickinson University · **Expected December 2026**
 
 ---
 
