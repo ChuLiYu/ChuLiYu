@@ -29,6 +29,18 @@ My professional experience includes **REST APIs, Hibernate/JPA, SQL and schedule
 
 ## Featured Projects
 
+### [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) — Replicated Job Queue in Go
+
+A personal systems project combining durable job processing, remote workers and a custom Raft implementation.
+
+- **Durable processing:** checksummed write-ahead logging, snapshots and restart recovery.
+- **Distributed coordination:** gRPC workers, leader election, majority replication and replicated job-state transitions.
+- **Failure handling:** retries, dead-letter handling and duplicate-job protection.
+- **Verification:** unit and integration tests covering leader loss, disk recovery and stale worker acknowledgements; [CI runs race checks, vet and a queue build](https://github.com/ChuLiYu/raft-recovery/actions/workflows/go.yml).
+
+**Stack:** Go · gRPC · Raft · WAL · Snapshots  
+*Educational systems project with a runnable three-node demo.*
+
 ### [AlphaPulse](https://github.com/ChuLiYu/alphapulse-mlops-platform) — Financial Data & Analytics Application
 
 A personal application connecting financial data workflows with APIs and a dashboard.
@@ -52,16 +64,6 @@ A TypeScript URL-shortening service with authenticated link management and redir
 
 **Stack:** TypeScript · AWS Lambda · API Gateway · DynamoDB · S3 · Terraform
 
-### [Raft-Recovery](https://github.com/ChuLiYu/raft-recovery) — Go Job Queue & Recovery
-
-A personal systems project exploring background processing, persistence and recovery.
-
-- **Persistence:** write-ahead logging and snapshot components.
-- **Processing:** concurrent worker pools, job lifecycle management and gRPC interfaces.
-- **Verification:** unit and integration test code for queue, storage and recovery scenarios.
-
-**Stack:** Go · gRPC · WAL · Snapshots
-
 More project context and contact information: **[luichu.dev](https://luichu.dev/)**.
 
 ---
@@ -74,7 +76,7 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 | **Professional data & business work** | SQL, relational data access, product planning, technical specifications, business data analysis |
 | **Financial domain** | EMV 3-D Secure payment authentication |
 | **Project application & data stack** | Python, FastAPI, PostgreSQL, TypeScript, React, Airflow |
-| **Project cloud & engineering tools** | AWS Lambda, API Gateway, DynamoDB, S3, Terraform, Docker, GitHub Actions, Go, gRPC |
+| **Project cloud & engineering tools** | AWS Lambda, API Gateway, DynamoDB, S3, Terraform, Docker, GitHub Actions, Go, gRPC, Raft |
 
 ---
 
@@ -91,15 +93,14 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 ### Product Planner — Astra Technology
 **Mar 2019 – Jun 2022**
 
-- Used **SQL and financial technical indicators** to support analysis and product planning.
-- Translated analytical findings into **technical specifications** for engineering implementation.
-- Collaborated on a **smart warehousing IoT proof of concept with NTT Japan**.
+- Translated analytical findings into **technical specifications** to support engineering implementation.
+- Used **SQL and financial technical indicators** to inform product analysis and planning.
+- Contributed to a **smart warehousing IoT proof of concept with NTT Japan**.
 
 ### Business Data Analyst — Star to Asia
 **Mar 2015 – Mar 2018**
 
-- Analyzed **digital advertising and CRM data** to evaluate campaign performance and customer trends.
-- Used **A/B testing and budget analysis** to inform marketing and resource-allocation decisions.
+- Analyzed **advertising and CRM data**, using **A/B testing and budget analysis** to inform campaign and resource-allocation decisions.
 
 ---
 
