@@ -2,10 +2,10 @@
 
 # Hi, I'm Li-Yu Chu (Liyu)
 
-### Software Developer | FinTech & Business Applications
+### Software Developer | Digital Banking & Business Applications
 
-**Java · Spring Boot · SQL**  
-Internet banking · Business systems · Application development
+**Java · Spring Boot · Angular · SQL**  
+Banking workflows · Microservices modernization · Full-stack development
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luichu.dev-4285F4?style=for-the-badge)](https://luichu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuliyu)
@@ -19,11 +19,11 @@ Internet banking · Business systems · Application development
 
 ## About Me
 
-I'm a software developer with **two years of professional experience building internet banking applications**, contributing to **front-end and back-end development** at HiTRUST.
+I'm a software developer with **two years of professional experience in internet banking**, building front-end and back-end functionality with **Angular, Java, Spring and Spring Boot** at HiTRUST.
 
-My background spans **software engineering, product planning and business data analysis**. That combination helps me connect business needs with technical specifications, application logic and data—an approach I bring to financial software and business applications.
+My work included **monolith-to-microservices refactoring, foreign-currency transaction workflows, scheduled processing and Hibernate-based data access**. I worked on debit-request and response processing, transaction-state transitions and retry handling within a multi-year banking modernization project.
 
-My professional experience includes **REST APIs, Hibernate/JPA, SQL and scheduled processing**. My personal projects extend that work into Python applications, AWS services and systems programming.
+Earlier experience in **product planning and business data analysis** helps me translate business rules into technical specifications and application logic. My personal projects extend my application development experience into financial data workflows, AWS services and distributed systems.
 
 ---
 
@@ -72,9 +72,9 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 
 | Area | Experience |
 |---|---|
-| **Professional application development** | Java, Spring Boot, REST APIs, Hibernate/JPA, Spring Scheduler |
-| **Professional data & business work** | SQL, relational data access, product planning, technical specifications, business data analysis |
-| **Financial domain** | Internet banking applications |
+| **Professional application development** | Java, Spring, Spring Boot, Angular, Hibernate, microservices refactoring, scheduled processing, unit testing |
+| **Professional databases & data access** | SQL, JDBC, Hibernate, Oracle, Microsoft SQL Server |
+| **Financial & business domain** | Internet banking, foreign-currency transaction workflows, bank message formats, transaction-state processing, product planning, technical specifications |
 | **Project application & data stack** | Python, FastAPI, PostgreSQL, TypeScript, React, Airflow |
 | **Project cloud & engineering tools** | AWS Lambda, API Gateway, DynamoDB, S3, Terraform, Docker, GitHub Actions, Go, gRPC, Raft |
 
@@ -85,10 +85,13 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 ### Software Engineer — HiTRUST
 **Jan 2023 – Dec 2024 | Digital Banking**
 
-- Contributed to **front-end and back-end development for internet banking applications**.
-- Built and maintained **REST APIs and database-backed application functionality**.
-- Implemented data access using **Hibernate/JPA and native SQL**.
-- Developed **scheduled background processing with Spring Scheduler** and contributed to software testing.
+Developed internet banking functionality with **Angular, Java, Spring and Spring Boot** as part of a multi-year application modernization project.
+
+- Refactored existing functionality into microservices across **4 areas: inquiry, scheduled processing, email notifications and data access**.
+- Implemented and refactored workflows involving **foreign-currency transaction rules and bank message formats**.
+- Worked on scheduled processing that submitted **debit requests to core banking systems**, updated transaction statuses from response messages, and handled retries and failure-state transitions.
+- Refactored **JDBC-based data access to Hibernate** and worked with **2 database platforms: Oracle and Microsoft SQL Server**.
+- Wrote **unit tests**, performed **manual testing**, and supported changes through QA and bank acceptance testing environments.
 
 ### Product Planner — Astra Technology
 **Mar 2019 – Jun 2022**
@@ -116,10 +119,8 @@ Fairleigh Dickinson University · **Expected December 2026**
 
 ## Let's Connect
 
-I'm interested in **software and application development opportunities in financial technology and business software**, including roles that connect development with business systems analysis.
+I'm interested in **software development opportunities in digital banking, financial technology and business applications**, where I can contribute to application modernization and dependable business workflows.
 
 **Available for my next full-time role after graduation, expected December 2026.**
 
 [Email](mailto:liyu.chu.work@gmail.com) · [LinkedIn](https://linkedin.com/in/chuliyu) · [Portfolio](https://luichu.dev/)
-
-> Understand the business problem. Make the implementation and its tradeoffs clear.
