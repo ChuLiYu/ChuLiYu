@@ -2,10 +2,10 @@
 
 # Hi, I'm Li-Yu Chu (Liyu)
 
-### Software Developer | Digital Banking & Business Applications
+### Software Developer | Backend & Full-Stack Applications
 
 **Java · Spring Boot · Angular · SQL**  
-Banking workflows · Microservices modernization · Full-stack development
+Banking experience · Application modernization · AWS & Terraform
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-luichu.dev-4285F4?style=for-the-badge)](https://luichu.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chuliyu)
@@ -19,11 +19,27 @@ Banking workflows · Microservices modernization · Full-stack development
 
 ## About Me
 
-I'm a software developer with **two years of professional experience in internet banking**, building front-end and back-end functionality with **Angular, Java, Spring and Spring Boot** at HiTRUST.
+I'm a software developer with **two years of professional experience building banking applications** using **Java, Spring Boot, Angular and SQL** at HiTRUST.
 
-My work included **monolith-to-microservices refactoring, foreign-currency transaction workflows, scheduled processing and Hibernate-based data access**. I worked on debit-request and response processing, transaction-state transitions and retry handling within a multi-year banking modernization project.
+My work included **transaction workflows, monolith-to-microservices refactoring, scheduled processing and Hibernate-based data access**. I implemented and refactored application logic for debit requests, response messages, transaction-state transitions and retries within a multi-year banking modernization project.
 
-Earlier experience in **product planning and business data analysis** helps me translate business rules into technical specifications and application logic. My personal projects extend my application development experience into financial data workflows, AWS services and distributed systems.
+Earlier experience in **product planning and business data analysis** helps me connect business rules with technical specifications and application logic. I have earned the **AWS Certified Solutions Architect – Associate** and **HashiCorp Certified: Terraform Associate** credentials, and my personal projects explore cloud infrastructure, financial data applications and distributed systems.
+
+---
+
+## Professional Experience Highlights
+
+### Software Engineer — HiTRUST
+**Jan 2023 – Dec 2024 | Digital Banking**
+
+Developed internet banking functionality with **Angular, Java, Spring and Spring Boot** as part of a multi-year application modernization project.
+
+- Refactored existing functionality into microservices across **4 areas: inquiry, scheduled processing, email notifications and data access**.
+- Implemented and refactored workflows involving **foreign-currency transaction rules and bank message formats**.
+- Worked on scheduled processing that submitted **debit requests to core banking systems**, updated transaction statuses from response messages, and handled retries and failure-state transitions.
+- Refactored **JDBC-based data access to Hibernate** and worked with **2 database platforms: Oracle and Microsoft SQL Server**.
+- Wrote **unit tests**, performed **manual testing**, and supported changes through QA and bank acceptance testing environments.
+
 
 ---
 
@@ -80,18 +96,7 @@ More project context and contact information: **[luichu.dev](https://luichu.dev/
 
 ---
 
-## Professional Experience Highlights
-
-### Software Engineer — HiTRUST
-**Jan 2023 – Dec 2024 | Digital Banking**
-
-Developed internet banking functionality with **Angular, Java, Spring and Spring Boot** as part of a multi-year application modernization project.
-
-- Refactored existing functionality into microservices across **4 areas: inquiry, scheduled processing, email notifications and data access**.
-- Implemented and refactored workflows involving **foreign-currency transaction rules and bank message formats**.
-- Worked on scheduled processing that submitted **debit requests to core banking systems**, updated transaction statuses from response messages, and handled retries and failure-state transitions.
-- Refactored **JDBC-based data access to Hibernate** and worked with **2 database platforms: Oracle and Microsoft SQL Server**.
-- Wrote **unit tests**, performed **manual testing**, and supported changes through QA and bank acceptance testing environments.
+## Earlier Product & Analytics Experience
 
 ### Product Planner — Astra Technology
 **Mar 2019 – Jun 2022**
@@ -107,19 +112,21 @@ Developed internet banking functionality with **Angular, Java, Spring and Spring
 
 ---
 
-## Education & Certifications
+## Certifications & Education
+
+**Credentials earned**
+
+- AWS Certified Solutions Architect – Associate
+- HashiCorp Certified: Terraform Associate
 
 **Master of Science — Applied Computer Science**  
 Fairleigh Dickinson University · **Expected December 2026**
-
-- AWS Certified Solutions Architect – Associate
-- HashiCorp Terraform Associate
 
 ---
 
 ## Let's Connect
 
-I'm interested in **software development opportunities in digital banking, financial technology and business applications**, where I can contribute to application modernization and dependable business workflows.
+I'm interested in **backend and full-stack software development opportunities across financial technology and business applications**, where I can contribute to application modernization and dependable business workflows.
 
 **Available for my next full-time role after graduation, expected December 2026.**
 
