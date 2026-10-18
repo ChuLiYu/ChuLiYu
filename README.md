@@ -25,6 +25,8 @@ My work included **transaction workflows, monolith-to-microservices refactoring,
 
 Earlier experience in **product planning and business data analysis** helps me connect business rules with technical specifications and application logic. I have earned the **AWS Certified Solutions Architect – Associate** and **HashiCorp Certified: Terraform Associate** credentials, and my personal projects explore cloud infrastructure, financial data applications and distributed systems.
 
+Based in **Vancouver, Canada**, I’m seeking **software development opportunities across North America**, with a particular interest in **fintech and financial services**. I bring hands-on banking application experience, an understanding of transaction workflows, and a business-oriented approach to software development.
+
 ---
 
 ## Professional Experience Highlights
@@ -126,8 +128,8 @@ Fairleigh Dickinson University · **Expected December 2026**
 
 ## Let's Connect
 
-I'm interested in **backend and full-stack software development opportunities across financial technology and business applications**, where I can contribute to application modernization and dependable business workflows.
+I’m interested in **Software Developer and Software Engineer roles**, particularly in **fintech and financial services**, where I can contribute to backend services, full-stack applications and application modernization.
 
-**Available for my next full-time role after graduation, expected December 2026.**
+Based in **Vancouver, Canada**. **Available for full-time opportunities after graduation, expected December 2026.**
 
 [Email](mailto:liyu.chu.work@gmail.com) · [LinkedIn](https://linkedin.com/in/chuliyu) · [Portfolio](https://luichu.dev/)
